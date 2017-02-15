@@ -9,3 +9,8 @@ TinyTurtle.apply(window);
 // stamp();
 //
 
+forward(15)
+right(65)
+forward(15)
+right(65)
+forward(10)
